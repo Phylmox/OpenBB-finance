@@ -208,3 +208,11 @@ OpenBB wouldn't be OpenBB without you. If we are going to disrupt financial indu
 [license-url]: https://github.com/OpenBB-finance/OpenBB/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/DidierRLopes
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=Phylmox/OpenBB-finance&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent/pub-Phylmox/openbb-finance)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=Phylmox/OpenBB-finance'
+```
+    
